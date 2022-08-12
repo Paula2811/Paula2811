@@ -22,11 +22,11 @@
 #### 🤝🏻 Connect with Me:
 
 <a href="https://www.linkedin.com/in/paula-andrea-yunes-85773297" target="_blank">
-  <img src="https://img.icons8.com/color/344/linkedin.png" width="24px"/>
+  <img src="https://img.icons8.com/color/344/linkedin.png" width="30px"/>
 <a/>
 
 <a href="mailto:pauliyunes94@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/344/gmail.png" width="24px"/>
+  <img src="https://img.icons8.com/color/344/gmail.png" width="30px"/>
 <a/>  
 
 
