@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 💼 Currently looking for my first IT job.
 
 #### 🛠 Tech Stack:
+![ ](https://user-images.githubusercontent.com/87399576/184382323-6073ecc3-f8ba-4482-b601-95999eea14e8.png)
 
-(https://img.icons8.com/color/2x/html-5.png)
+
 
