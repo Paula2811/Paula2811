@@ -8,7 +8,7 @@
 
 #### 🛠 Tech Stack:
 
-![](https://user-images.githubusercontent.com/87399576/184382323-6073ecc3-f8ba-4482-b601-95999eea14e8.png)
+![](https://user-images.githubusercontent.com/87399576/184382323-6073ecc3-f8ba-4482-b601-95999eea14e8.png) 
 ![](https://user-images.githubusercontent.com/87399576/184382538-7f228d78-a275-4f89-b1eb-17b286061262.png)
 ![](https://user-images.githubusercontent.com/87399576/184382654-ed4fe020-3adc-402d-8dca-c46ddc078e51.png)
 ![](https://user-images.githubusercontent.com/87399576/184382801-0a2a8388-b0e2-47bd-8134-d73f818a6755.png)
@@ -18,6 +18,7 @@
 ![](https://user-images.githubusercontent.com/87399576/184383305-074d1bec-d351-491d-87d9-4173ca859661.png)
 ![](https://user-images.githubusercontent.com/87399576/184383439-3d498b9d-1cb0-486b-9a3a-4547cb00d02d.png)
 ![](https://user-images.githubusercontent.com/87399576/184383474-48cc92cf-15d5-4d99-8400-8b7281add280.png)
+##### HTML - CSS - JavaScript - React.Js - SASS - Bootstrap - MongoDB - Node.Js - Git - Figma
 
 #### 🤝🏻 Connect with Me:
 
